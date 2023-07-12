@@ -1,0 +1,93 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-title {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800px;
+    background-color: darkred;
+}
+
+.btn-p {
+    border-radius: 50px;
+    background: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700px;
+    padding: 15px 35px;
+    
+}
+
+nav {
+    display: flex;
+    align-items: center;
+
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+    font-size: 30px;font-color;blue;
+    justify-content: space-around;
+    width: 1920px;
+height: 50px;
+background-color:gray;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+}
+
+
+
+
+
+
+* {
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.sec1 {
+    box-sizing: border-box width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    height: px;
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.menus {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    font-size: 17px;
+
+}
+
+.sec1 {
+    width: 1920px;
+    height: 850px;
+    background-image: url("Flower Asset/pngwing 10.png");
+    background-position: right;
+    background: rgba(229, 84green, 115blue, alpha);
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    background-color: #E55473-10;
+
+}
