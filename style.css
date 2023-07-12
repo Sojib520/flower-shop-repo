@@ -89,7 +89,50 @@ nav a {
 
 }
 
-.section-2{
+.section-2{box-sizing: border-box width: 1920px;
+    height: 850px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    Assets
+    
+    pngwing 6
+    Image · 310 x 428
+    Export
+    
+    
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+Assets
+
+pngwing 5
+Image · 370 x 370
+Export
+
+
+PNG
+
+
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+Assets
+
+pngwing 7
+Image · 314 x 471
+Export
+
+
+
+    
+    height: px;
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-around;
+    width: 1920px;
+    height: 850px;
+    background-position:;
+    background: rgba(229, 84green, 115blue, alpha);
+    
+    background-repeat: no-repeat;
+    background-color: #E55473-10;
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -109,4 +152,122 @@ line-height: 30px;
    border-radius: 10px;
    background: #fff8f3;
    margin: 130px;
+}
+ .s2p{
+    display: flex;
+    border: radius 10px;
+ }
+ .sec3{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    color: brown;
+    padding-inline: 10px;
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+Colors
+Hex
+#272727 · 5%
+ }
+ .s3{
+ display: flex:bottom: 50px ;
+     background: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500px;
+    padding: 15px 35px;  
+ }
+ .sec4{
+    display: flex;
+    justify-content: space-between;
+    width: 1922px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+background-repeat: no-repeat;
+    background-color: #E55473-10;
+    background-color: gray;
+    align-items: center;
+    padding: 100px;
+    justify-content: space-around;
+    background-origin: padding-box;
+
+
+ }
+.s4p{
+    display:inline-flex;
+    position: relative;
+    justify-content: right;
+}
+.sec5{box-sizing: border-box width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    height: px;
+    display:inline;
+    background-color: background: url(<path-to-image>), lightgray 50% ;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-around;
+    background: rgba(229, 84green, 115blue, alpha);
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    background-color: #E55473-10
+    width: 1920vh;
+    height: 850px;
+    list-style: none;
+    gap: 150px;
+    font-size: 17px;
+
+}
+#sec6{
+box-sizing: border-box width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    height: px;
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-around;
+    background-image: url("Flower Asset/Rectangle 9.png");
+    background-position: center;
+    background: rgba(229, 84green, 115blue, alpha);
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    background-color: #E55473-10;}
+   footer{
+        width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+color: #E55473;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 30px;
+line-height: normal;
+font-color:white;
+justify-content:space-around;
+align-items: center;
+font-display: center;
+font-variant-position: inherit;
+background-position: center;
+display:center;
+
+flex-direction: column;
+
+    }
+.foter{ 
+    display:right;
+justify-content:space-around;
+align-items
+:center;
+display: flex;
+width: 625px;
+background-position: center;
 }
